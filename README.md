@@ -4,7 +4,7 @@
 
 # 🛡️ Security Books — The Ultimate Cybersecurity Library
 
-### _A Massive, Curated Collection of 142+ Cybersecurity Books, Guides & Resources_
+### _A Massive, Curated Collection of 160+ Cybersecurity Books, Guides & Resources_
 
 [![GitHub stars](https://img.shields.io/github/stars/mizazhaider-ceh/Security-Books?style=for-the-badge&logo=github&color=yellow)](https://github.com/mizazhaider-ceh/Security-Books/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mizazhaider-ceh/Security-Books?style=for-the-badge&logo=github&color=blue)](https://github.com/mizazhaider-ceh/Security-Books/network/members)
@@ -54,13 +54,13 @@ This repository is a **one-stop library** for anyone passionate about **Cybersec
 
 ## 🎯 About
 
-Welcome to **Security-Books** — a carefully curated, categorized collection of **142+ cybersecurity PDFs** covering everything from foundational concepts to advanced exploitation techniques.
+Welcome to **Security-Books** — a carefully curated, categorized collection of **160+ cybersecurity PDFs** covering everything from foundational concepts to advanced exploitation techniques.
 
 ### 🔥 What makes this repo special?
 
 | Feature | Description |
 |---------|-------------|
-| 📚 **142+ Resources** | One of the largest open collections of security books on GitHub |
+| 📚 **160+ Resources** | One of the largest open collections of security books on GitHub |
 | 🏷️ **Fully Categorized** | Every book organized into clear, logical categories |
 | 🔗 **Clickable Links** | Click any book name to open/download it instantly |
 | 🎓 **All Skill Levels** | From absolute beginner to advanced red teamer |
@@ -107,19 +107,32 @@ I've personally gone through many of these books during my own CEH journey and p
 | 4 | 📕 [**Bug Bounty Methodology**](Bug%20Bounty%20Methodology.pdf) | Step-by-step methodology for finding bugs |
 | 5 | 📕 [**Bug Bounty PlayBook**](Bug%20Bounty%20PlayBook.pdf) | Strategic playbook for bounty programs |
 | 6 | 📕 [**Bug Bounty Playbook (Ghostlulz)**](Bug%20Bounty%20Playbook%20(Ghostlulz)%20(Z-Library).pdf) | Ghostlulz's legendary bug bounty playbook |
-| 7 | 📕 [**Bug Bounty Roadmap**](Bug%20Bounty%20Roadmap%20.pdf) | Complete roadmap from beginner to pro |
-| 8 | 📕 [**Bug Hunting Guide**](bug%20hunting%20guide.pdf) | Practical guide to hunting bugs |
-| 9 | 📕 [**Big Bounty**](Big%20bounty.pdf) | Advanced bounty hunting strategies |
-| 10 | 📕 [**Web Application Hacking**](Web%20Application%20Hacking.pdf) | Web app exploitation techniques |
-| 11 | 📕 [**Web Application Pen Test**](Web%20Application%20Pen%20test.pdf) | Web application penetration testing |
-| 12 | 📕 [**Web Application Testing**](Web%20Application%20Testing.pdf) | Comprehensive web testing guide |
-| 13 | 📕 [**Web Testing Security Guide**](Web%20Testing%20Security%20Guide.pdf) | Security-focused web testing |
-| 14 | 📕 [**Web Hacking Arsenal**](Web%20Hacking%20Arsenal%20(Rafay%20Baloch)%20(Z-Library).pdf) | Web hacking tools & arsenal by Rafay Baloch |
-| 15 | 📕 [**Web Hacking Arsenal — A Practical Guide to Modern Web Pentesting**](Web%20Hacking%20Arsenal%20A%20Practical%20Guide%20to%20Modern%20Web%20Pentesting%20(Rafay%20Baloch)%20(Z-Library).pdf) | Modern web pentesting practical guide |
-| 16 | 📕 [**WebPenTestKali**](WebPenTestKali.pdf) | Web penetration testing with Kali |
-| 17 | 📕 [**API Security Threats**](API%20Security%20threats.pdf) | Understanding and mitigating API vulnerabilities |
-| 18 | 📕 [**Web Agents Inject**](web_agents_inject.pdf) | Web agent injection techniques |
-| 19 | 📕 [**Pentesting With Burp Suite**](Pentesting%20With%20Burp%20Suite.pdf) | Master Burp Suite for web testing |
+| 7 | 📕 [**Bug Bounty Playbook V2**](Bug%20Bounty%20Playbook%20V2v.pdf) | Updated V2 edition of the bug bounty playbook |
+| 8 | 📕 [**Bug Bounty Roadmap**](Bug%20Bounty%20Roadmap%20.pdf) | Complete roadmap from beginner to pro |
+| 9 | 📕 [**Bug Bounty Hunting Essentials**](Bug%20Bounty%20Hunting%20Essentials.pdf) | Essential skills for successful bug bounty hunting |
+| 10 | 📕 [**Bug Bounty Tools Collection**](Bug%20Bounty%20Tools%20Collection.pdf) | Curated collection of bug bounty tools |
+| 11 | 📕 [**Awesome Bugbounty Writeups**](Awesome%20Bugbounty%20Writeups.pdf) | Collection of amazing bug bounty writeups |
+| 12 | 📕 [**A Bug Hunter's Diary**](A%20Bug%20Hunter%27s%20Diary.pdf) | Real-world bug hunting stories & techniques |
+| 13 | 📕 [**Bug Hunting Guide**](bug%20hunting%20guide.pdf) | Practical guide to hunting bugs |
+| 14 | 📕 [**Big Bounty**](Big%20bounty.pdf) | Advanced bounty hunting strategies |
+| 15 | 📕 [**Top 100 Bugs**](Top%20100%20Bugs.pdf) | Top 100 most common bugs & vulnerabilities |
+| 16 | 📕 [**Web Application Hacking**](Web%20Application%20Hacking.pdf) | Web app exploitation techniques |
+| 17 | 📕 [**Web Application Pen Test**](Web%20Application%20Pen%20test.pdf) | Web application penetration testing |
+| 18 | 📕 [**Web Application Testing**](Web%20Application%20Testing.pdf) | Comprehensive web testing guide |
+| 19 | 📕 [**Web Application Penetration Testing**](Web%20Application%20Penetration%20Testing.pdf) | Complete web app pentesting methodology |
+| 20 | 📕 [**Web Testing Security Guide**](Web%20Testing%20Security%20Guide.pdf) | Security-focused web testing |
+| 21 | 📕 [**Web Hacking Arsenal**](Web%20Hacking%20Arsenal%20(Rafay%20Baloch)%20(Z-Library).pdf) | Web hacking tools & arsenal by Rafay Baloch |
+| 22 | 📕 [**Web Hacking Arsenal — A Practical Guide to Modern Web Pentesting**](Web%20Hacking%20Arsenal%20A%20Practical%20Guide%20to%20Modern%20Web%20Pentesting%20(Rafay%20Baloch)%20(Z-Library).pdf) | Modern web pentesting practical guide |
+| 23 | 📕 [**Web Hacking Arsenal — Practical Guide (Standalone)**](Web%20Hacking%20Arsenal%20-%20A%20Practical%20Guide%20to%20Modern%20Web%20Pentesting%20by%20Rafay%20Baloch.pdf) | Standalone edition by Rafay Baloch |
+| 24 | 📕 [**WebPenTestKali**](WebPenTestKali.pdf) | Web penetration testing with Kali |
+| 25 | 📕 [**100 Web PenTesting Checklist**](100%20Web%20PenTesting%20checklist_%F0%9F%92%AA%F0%9F%9A%A8.pdf) | 100-point web penetration testing checklist |
+| 26 | 📕 [**API Security Threats**](API%20Security%20threats.pdf) | Understanding and mitigating API vulnerabilities |
+| 27 | 📕 [**Advance XSS**](Advance%20XSS.pdf) | Advanced Cross-Site Scripting techniques |
+| 28 | 📕 [**XSS Cheat Sheet**](XSS%20Cheat%20Sheet.pdf) | Quick reference for XSS payloads & bypasses |
+| 29 | 📕 [**Types of Sensitive Information**](Types%20Of%20Sensitive%20Information.pdf.pdf) | Identifying & classifying sensitive data |
+| 30 | 📕 [**eLearnSecurity eWPT Notes**](eLearnSecurity%20eWPT%20Notes.pdf) | eWPT certification study notes |
+| 31 | 📕 [**Web Agents Inject**](web_agents_inject.pdf) | Web agent injection techniques |
+| 32 | 📕 [**Pentesting With Burp Suite**](Pentesting%20With%20Burp%20Suite.pdf) | Master Burp Suite for web testing |
 
 ---
 
@@ -145,6 +158,7 @@ I've personally gone through many of these books during my own CEH journey and p
 | 14 | 📗 [**Hacking Gmail (ExtremeTech)**](John%20Wiley%20%26amp_%20Sons.Hacking%20GMail%20(ExtremeTech).pdf) | Email exploitation techniques |
 | 15 | 📗 [**AC DER BY PASS TECH.HACKERS**](AC%20DER%20BY%20PASS%20TECH.HACKERS.pdf) | Access control bypass techniques |
 | 16 | 📗 [**Offensive Security Professional Overview Survival**](Offensive%20Security%20Professional%20Overview%20Survival.pdf) | OffSec professional guide |
+| 17 | 📗 [**Week 1 — Intro to Pentesting**](Week1%20-%20IntroPentesting.pdf) | Beginner-friendly intro to penetration testing |
 
 ---
 
@@ -189,6 +203,8 @@ I've personally gone through many of these books during my own CEH journey and p
 | 8 | 🐧 [**Kali Network Scanning**](KaliNetworkScanning.pdf) | Network scanning techniques |
 | 9 | 🐧 [**Kali Social Engineering**](KaliSocialEngineering.pdf) | Social engineering with Kali |
 | 10 | 🐧 [**Kali Tools List with Short Description**](kalitoolslistwithshortdescription.pdf) | Complete Kali tools reference |
+| 11 | 🐧 [**CTF Cheat Sheet**](CTF%20Cheet%20Sheet.pdf) | Capture The Flag competition cheat sheet |
+| 12 | 🐧 [**The Ultimate Guide to Flag Hunting**](The%20Ultimate%20Guide%20to%20Flag%20Hunting.pdf) | Complete guide to CTF flag hunting strategies |
 
 ---
 
@@ -372,6 +388,8 @@ I've personally gone through many of these books during my own CEH journey and p
 | 2 | 🛠️ [**Open Source Tools**](Open%20Source%20Tools%20.pdf) | Open source security tools guide |
 | 3 | 🛠️ [**Mastering Nmap Scripting**](Mastering%20Nmap%20Scripting.pdf) | Advanced Nmap scripting engine |
 | 4 | 🛠️ [**100 Security Operation Center Tools**](100%20Security%20Operation%20Center%20Tools.pdf) | Essential SOC toolkit |
+| 5 | 🛠️ [**cURL Cheat Sheet**](curl-cheatsheet.pdf) | Quick reference for cURL commands |
+| 6 | 🛠️ [**cURL Command Cheat Sheet**](curl-command-cheatsheet.pdf) | Comprehensive cURL command reference |
 
 ---
 
